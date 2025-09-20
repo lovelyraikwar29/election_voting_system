@@ -1,3 +1,5 @@
+#Description
+The Election Voting System is a Django-based web application for small-scale elections, such as college student council, club leadership, or internal polls. Users can register, log in, vote for candidates, and view results in real-time. Admins can manage candidates easily through the Django Admin panel.
 # Election Voting System
 
 ## Tech Stack
